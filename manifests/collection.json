@@ -11,5 +11,11 @@
       "none" : [ "National Gallery of Art Collection Highlights" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://Kekskaempferin.github.io/EinProjektVonMir/manifests/Test",
+    "label" : {
+      "none" : [ "National Gallery of Art Collection Highlights" ]
+    },
+    "type" : "Manifest"
   } ]
 }
